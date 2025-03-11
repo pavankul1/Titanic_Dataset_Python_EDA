@@ -14,7 +14,6 @@ Filled missing embarkation port with the most frequent value.
 Dropped Cabin column due to excessive missing data.
 ✅ Feature Engineering for New Insights:
 Created Age Groups (Child, Teen, Adult, etc.).
-Extracted Titles (Mr., Miss, etc.) from passenger names.
 Identified passengers who traveled alone vs. with family.
 ✅ Survival Rate Analysis Based on Different Factors:
 Gender: Higher survival rate for females.
